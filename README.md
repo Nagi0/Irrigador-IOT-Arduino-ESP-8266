@@ -1,4 +1,9 @@
 # Irrigador-IOT-Arduino-ESP-8266
+### Lista de bibliotecas:
+- Arduino JSON
+- Firebase-ESP8266-master
+- NTPClient
+- TM1637-master
 https://www.youtube.com/watch?v=082JBZ-Txvo&t=1637s <br> 
 Use test-mode para o servidor firebase <br>
 E utilize a seguinte biblioteca para comunicar com o servidor Firebase: <br>
